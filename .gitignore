@@ -1,2 +1,8 @@
 .pioenvs
 .piolibdeps
+
+.pio/
+
+.vscode/
+
+arduino-blink workspace.code-workspace
